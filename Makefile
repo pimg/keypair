@@ -12,7 +12,7 @@ lint:
 
 @PHONY: build
 build:
-	go build -o ct
+	go build -o keygen
 
 
 @PHONY: format
